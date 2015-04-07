@@ -1,0 +1,38 @@
+/* This is a CSS comment.*/
+
+div {
+	color: blue;
+
+
+body {
+    background-color: gray;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}                
+
+p {
+    margin: 10px 0;
+}
+
+h1 {
+
+	background-color: black;
+	color: white;
+}
+
+tr {
+	background-color: yellow;	
+}
+
+
+p {
+
+	background-color: red;	
+}
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
